@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/axeliono.github.io/portfolio-v2/static/css/main.3a3f3b7f.chunk.css",
-    "main.js": "/axeliono.github.io/portfolio-v2/static/js/main.426c76e4.chunk.js",
-    "main.js.map": "/axeliono.github.io/portfolio-v2/static/js/main.426c76e4.chunk.js.map",
-    "runtime-main.js": "/axeliono.github.io/portfolio-v2/static/js/runtime-main.91a7bf53.js",
-    "runtime-main.js.map": "/axeliono.github.io/portfolio-v2/static/js/runtime-main.91a7bf53.js.map",
-    "static/js/2.bb901107.chunk.js": "/axeliono.github.io/portfolio-v2/static/js/2.bb901107.chunk.js",
-    "static/js/2.bb901107.chunk.js.map": "/axeliono.github.io/portfolio-v2/static/js/2.bb901107.chunk.js.map",
-    "static/js/3.9c0a9f2f.chunk.js": "/axeliono.github.io/portfolio-v2/static/js/3.9c0a9f2f.chunk.js",
-    "static/js/3.9c0a9f2f.chunk.js.map": "/axeliono.github.io/portfolio-v2/static/js/3.9c0a9f2f.chunk.js.map",
-    "index.html": "/axeliono.github.io/portfolio-v2/index.html",
-    "static/css/main.3a3f3b7f.chunk.css.map": "/axeliono.github.io/portfolio-v2/static/css/main.3a3f3b7f.chunk.css.map",
-    "static/js/2.bb901107.chunk.js.LICENSE.txt": "/axeliono.github.io/portfolio-v2/static/js/2.bb901107.chunk.js.LICENSE.txt",
-    "static/media/chandler.JPG": "/axeliono.github.io/portfolio-v2/static/media/chandler.e8d4dc76.JPG"
+    "main.css": "/portfolio-v2/static/css/main.3a3f3b7f.chunk.css",
+    "main.js": "/portfolio-v2/static/js/main.91f832fb.chunk.js",
+    "main.js.map": "/portfolio-v2/static/js/main.91f832fb.chunk.js.map",
+    "runtime-main.js": "/portfolio-v2/static/js/runtime-main.211e6c44.js",
+    "runtime-main.js.map": "/portfolio-v2/static/js/runtime-main.211e6c44.js.map",
+    "static/js/2.bb901107.chunk.js": "/portfolio-v2/static/js/2.bb901107.chunk.js",
+    "static/js/2.bb901107.chunk.js.map": "/portfolio-v2/static/js/2.bb901107.chunk.js.map",
+    "static/js/3.9c0a9f2f.chunk.js": "/portfolio-v2/static/js/3.9c0a9f2f.chunk.js",
+    "static/js/3.9c0a9f2f.chunk.js.map": "/portfolio-v2/static/js/3.9c0a9f2f.chunk.js.map",
+    "index.html": "/portfolio-v2/index.html",
+    "static/css/main.3a3f3b7f.chunk.css.map": "/portfolio-v2/static/css/main.3a3f3b7f.chunk.css.map",
+    "static/js/2.bb901107.chunk.js.LICENSE.txt": "/portfolio-v2/static/js/2.bb901107.chunk.js.LICENSE.txt",
+    "static/media/chandler.JPG": "/portfolio-v2/static/media/chandler.e8d4dc76.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.91a7bf53.js",
+    "static/js/runtime-main.211e6c44.js",
     "static/js/2.bb901107.chunk.js",
     "static/css/main.3a3f3b7f.chunk.css",
-    "static/js/main.426c76e4.chunk.js"
+    "static/js/main.91f832fb.chunk.js"
   ]
 }
