@@ -1,7 +1,7 @@
 {
   "name": "portfolio-v2",
   "version": "0.1.0",
-  "homepage": "http://www.axeliono.github.io/portfolio-v2/",
+  "homepage": "https://www.axeliono.github.io/portfolio-v2/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
