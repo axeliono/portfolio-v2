@@ -29,6 +29,13 @@ const Resume = () => {
         <li>Express</li>
         <li>Handlebars.js</li>
       </ul>
+      <ul>
+        Other Contact Info
+        <li>
+          email:<email>chandlergreen1997@gmail.com</email>
+        </li>
+        <li>Phone Number: 832-792-4213</li>
+      </ul>
     </div>
   );
 };
