@@ -4,4 +4,4 @@ A react single page application that displays my skillset, past projects and per
 
 ## Link to Deployed Web Page:
 
-[Click Here](https://axeliono.github.io/portfolio-v2)
+(https://axeliono.github.io/portfolio-v2)
