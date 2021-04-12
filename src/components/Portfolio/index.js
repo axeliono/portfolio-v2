@@ -39,13 +39,6 @@ const Portfolio = () => {
       repo: "https://github.com/axeliono/budget-tracker",
     },
     {
-      name: "Budget-Tracker",
-      tech: "Javascript/Node/HTML/Webpack",
-      deployed: "https://vast-eyrie-36715.herokuapp.com/",
-      image: "../../assets/images/budget-tracker.jpg",
-      repo: "https://github.com/axeliono/budget-tracker",
-    },
-    {
       name: "Hotel-Hotel",
       tech: "Javascript/React/GraphQL",
       deployed: "https://dry-peak-24448.herokuapp.com/",
