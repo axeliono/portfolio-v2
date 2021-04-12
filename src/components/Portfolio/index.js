@@ -45,6 +45,13 @@ const Portfolio = () => {
       image: "../../assets/images/budget-tracker.jpg",
       repo: "https://github.com/axeliono/budget-tracker",
     },
+    {
+      name: "Hotel-Hotel",
+      tech: "Javascript/React/GraphQL",
+      deployed: "https://dry-peak-24448.herokuapp.com/",
+      image: "../../assets/images/budget-tracker.jpg",
+      repo: "https://github.com/axeliono/hotel-hotel",
+    },
   ];
   return (
     <section className="projects-container">
